@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pwa2/static/css/main.073c9b0a.css",
+    "main.js": "/pwa2/static/js/main.8ab9384a.js",
+    "service-worker.js": "/pwa2/service-worker.js",
+    "static/media/logo.svg": "/pwa2/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/pwa2/index.html",
+    "main.073c9b0a.css.map": "/pwa2/static/css/main.073c9b0a.css.map",
+    "main.8ab9384a.js.map": "/pwa2/static/js/main.8ab9384a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ab9384a.js"
+  ]
+}
